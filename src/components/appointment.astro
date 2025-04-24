@@ -1,0 +1,37 @@
+
+<div class="appointments d-flex align-items-center gap-3">
+    <img src="/medical.webp" alt="marigold-hospital-medical" class="medical"> 
+    <!-- <p id="" onclick="toggleDisplay()" >Book Appointment</p> -->
+    <a href="/contact">Book Appointment</a>
+</div>
+
+<script is:inline >
+     function toggleDisplay() {
+        var myDiv = document.getElementById("divForm");
+        if (myDiv.style.display === "none") {
+            myDiv.style.display = "block";
+        } 
+    }
+</script>
+
+<style lang="scss">
+    .medical{
+        max-width: 40px;
+    }
+    .appointments{
+        background-color: var(--clr-one);
+        border-radius: 24px;
+        padding: 1rem;
+        &:hover{
+            a{
+                display: block;
+                cursor: pointer;
+                color: white;
+            }
+        }
+
+        a{
+            display: none ;
+        }
+    }
+</style>

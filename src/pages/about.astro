@@ -1,0 +1,308 @@
+---
+
+import Layout from "../layouts/Layout.astro";
+import Team from "../components/team.astro";
+
+
+---
+
+<Layout title="Best Multispeciality Hospital in JP Nagar" canonical="https://www.marigoldhospitals.com/" link="">
+
+    <div class="about-lead section-pad">
+       <div class="container">
+       <div class="pb-5">
+        <div class=" justify-content-center m-0 gy-3">
+            <div class=" text-center">
+                <div class="section-title" data-aos="fade-down"
+                data-aos-duration="500"
+                data-aos-easing="ease-in"> <span>Marigold</span> Hospital</div>
+
+                <div class="sub-head pb-4" data-aos="fade-in"
+                data-aos-duration="800"
+                data-aos-easing="ease-in">
+                    Centre for Excellence in Quality Healthcare
+                </div>
+            </div>
+            <div class="" data-aos="fade-in"
+            data-aos-duration="800"
+            data-aos-easing="ease-in">
+               <p class="text-justify"> MARIGOLD HOSPITAL is a healthcare division of Raj Disle Private Limited. RDPL believes in
+                its grounding philosophy - GROW, EXCEL, LEAD. It has diversified divisions under its wing.
+                With an undaunted passion for growth, RDPL has its commitment to achieve customer
+                satisfaction by offering products and services with unmatched QUALITY and CARE.
+                The quest to EXCEL has always been on the forefront of the company’s vision. RDPL believes
+                that excellence is an inbuilt passion which will always grow stronger. The desire
+                to LEAD grows stronger with each and every stride we take in developing RDPL.
+                Together with the staff, employees, associates and customers we aim to build a legacy
+                which will always be destined for growth. RDPL values life, and will always ensure that it
+                takes that extra effort to make life more meaningful and comfortable.</p>
+            </div>
+        </div>
+       </div>
+
+       
+       </div>
+       <div class="banner-img" data-aos="fade-up"
+       data-aos-duration="800"
+       data-aos-easing="ease-in">
+        <img src="/b1.webp" alt="marigold-hospital-banner" >
+    </div>
+    </div>
+
+    <div class="mission section-pad">
+        <div class="conainer">
+            <div class="row justify-content-center ">
+                <div class="col-lg-4 grids one" >
+                     <div 
+                     data-aos="zoom-in"
+                     data-aos-duration="800"
+                     data-aos-easing="ease-in"><img src="/mission.webp" alt="marigold-hospital-mission"></div>
+                     <div class="oge-light-bg" data-aos="fade-up"
+                     data-aos-duration="300"
+                     data-aos-easing="ease-in">
+                        <div class="heading text-center">Our Mission <span></span></div>
+                        <p class="text-center">Our mission is to deliver patient & family centric care in a highly efficient manner with exceptional quality at affordable prices to safety outcomes for the benefit of the society. In short we want to change the future of health care & serve all people with exemplary health care, education, research & best service possible.</p>
+                     </div>
+                </div>
+                <div class="col-lg-4 grids one" >
+                     <div  
+                     data-aos="zoom-in"
+                     data-aos-duration="800"
+                     data-aos-easing="ease-in"><img src="/vision.webp" alt="marigold-hospital-vision"></div>
+                     <div class="oge-light-bg"  data-aos="fade-up"
+                     data-aos-duration="300"
+                     data-aos-easing="ease-in">
+                        <div class="heading  text-center">Our Vision <span></span></div>
+                        <p class="text-center">To ensure accessible and affordable quality healthcare by compassionate medical professionals to all,
+                            To be the centre of excellence for medical services and
+                            to cultivate an environment of trust, honesty, mutual respect, equality, and ethics.</p>
+                     </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+
+   
+
+   
+
+    <Team/>
+  
+
+    <div class="executive section-pad">
+        <div class="container">
+            <div class="section-title text-center pb-5" data-aos="fade-in"
+            data-aos-duration="300"
+            data-aos-easing="ease-in">
+                <span>Management Executive</span> Team
+            </div>
+            <div class="m-team">
+                <div data-aos="fade-up"
+                data-aos-duration="300"
+                data-aos-easing="ease-in">
+                    <img src="/team/thanda.webp" alt="marigold-hospital-human-resources"  class="max-width-300">
+                    <p class="sub-head">
+                        <span>Mr Thandaveswara DE</span>
+                    </p>
+                    <p class="m-0">
+                        VP - Human Resources
+                    </p>
+                </div>
+               
+                <div data-aos="fade-up"
+                data-aos-duration="700"
+                data-aos-easing="ease-in">
+                    <img src="/team/naven.webp" alt="marigold-hospital-operations-markrting" class="max-width-255" >
+                    <p class="sub-head">
+                        <span>Mr Naveen Kumar R </span>
+                    </p>
+                    <p class="m-0">
+                        VP - Operations & Marketing
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+    <div class="policy section-pad">
+        <div class="container">
+            <div class="section-title text-center pb-3">
+                <span>Policies </span>& <span>Procedures</span>
+            </div>
+
+            <p class="words text-center p-2">
+                The Management is focus to build system oriented organization. with the help of hospital consultants, have drafted organization level and department wise level of documentation to include – department manual, Policies and protocols along with well defined formats / templates for smooth functioning across all departments and hospital as a unit. To provide value added innovative, consistent, and continuously improving health and medical care to sustain andfurther improve clinical outcomes, patient safety & patient satisfaction.
+            </p>
+        </div>
+    </div>
+
+
+
+
+</Layout>
+<script is:inline >
+     const openModalBtns = document.querySelectorAll(".openModalBtn");
+  const modals = document.querySelectorAll(".modal");
+  const closeBtns = document.querySelectorAll(".close");
+
+  openModalBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const modalId = btn.getAttribute("data-modal");
+      const modal = document.getElementById(modalId);
+      modal.style.display = "block";
+    });
+  });
+
+  closeBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const modalId = btn.getAttribute("data-modal");
+      const modal = document.getElementById(modalId);
+      modal.style.display = "none";
+    });
+  });
+
+  window.addEventListener("click", (event) => {
+    modals.forEach((modal) => {
+      if (event.target === modal) {
+        modal.style.display = "none";
+      }
+    });
+  });
+</script>
+<style lang="scss">
+    .max-width-300{
+        max-width: 300px;
+    }
+    .max-width-255{
+        max-width: 255px;
+    }
+    .about-lead{
+
+       p{
+        text-align: justify;
+       }
+
+        .banner-img{
+           
+            
+            height: 400px;
+            
+            
+            img{
+                width: 100%; 
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+        
+        }
+
+        .mission{
+            // padding-bottom: 20rem;
+            .row{
+                gap: 2rem;
+                padding: 0;
+                margin: 0;
+                .grids{
+
+                    display: grid;
+                    
+                    grid-template-columns: 1fr 100px 1fr;
+                    grid-template-rows: 50px 50px 1fr;
+
+                    >:nth-child(1){
+                        width: 100px;
+                        height: 100px;
+                        background-color: rgb(255, 255, 255);
+                        box-shadow: 0px 0px 44px 1px rgba(0, 0, 0, 0.097);
+                        border-radius: 100px;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        grid-column: 2/3;
+                        z-index: 1;
+                        transition: var(--transition);
+
+                       
+
+                        >img{
+                            width: 50px ;
+                        }
+                    }
+
+                    >:nth-child(2){
+                        
+                        // height: 370px;
+                        height: 100% !important;
+                        border-radius: 25px;
+                        color: white;
+                        
+                        grid-column: 1/4;
+                        grid-row: 2/4;
+                        display: grid;
+                        grid-template-rows: 70px 50px 1fr;
+
+                     
+
+                        >:nth-child(1){
+                            grid-row: 2/3;
+                        }
+                        >:nth-child(2){
+                            grid-row: 3/4;
+                            
+                               
+                            padding: 1rem 3rem;
+                        }
+                    }
+                }
+
+              .one {
+                &:hover{
+                   >:nth-child(1){
+                    transform: scale(1.3);
+                   }
+                }
+              }
+            }
+        }
+
+        .director{
+            position: relative;
+            .row{
+                justify-content: center;
+                // align-items: center;
+
+                >:nth-child(1){
+                    @media screen and (max-width: 600px){
+                             text-align: center;
+                    }
+                    img{
+                        max-width: 300px;
+                    }
+                }
+            }
+        }
+
+
+        .m-team{
+            display: flex;
+            justify-content: center;
+            align-items: baseline;
+            gap: 3rem;
+            text-align: center;
+            flex-wrap: wrap;
+
+            
+        }
+
+        
+
+      
+
+
+    
+</style>
+

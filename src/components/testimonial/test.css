@@ -1,0 +1,100 @@
+.button-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6rem;
+  justify-content: center;
+}
+
+.slider-section .owl-carousel {
+  display: block !important;
+  z-index: 0;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: stretch;
+  position: relative;
+}
+.slider-section .owl-carousel .owl-dots {
+  display: none;
+}
+.slider-section .owl-carousel .owl-nav {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+.slider-section .owl-carousel .owl-nav .owl-prev:hover, .slider-section .owl-carousel .owl-nav .owl-next:hover {
+  background-color: transparent !important;
+}
+.slider-section .owl-carousel .owl-nav .owl-prev span, .slider-section .owl-carousel .owl-nav .owl-next span {
+  font-size: 60px;
+  color: white;
+  display: block;
+  width: 60px;
+  line-height: 0.8;
+  height: 60px;
+  border-radius: 60px;
+  background-color: var(--clr-one);
+}
+.slider-section .owl-carousel .owl-nav .owl-prev span:hover, .slider-section .owl-carousel .owl-nav .owl-next span:hover {
+  background-color: var(--clr-one);
+}
+.slider-section .owl-carousel .owl-item {
+  display: block !important;
+  background-color: white !important;
+  color: black;
+  border: none;
+}
+.slider-section .owl-carousel .patient img {
+  cursor: pointer;
+}
+.slider-section .owl-carousel .patient video {
+  width: 100% !important;
+  height: 279.547px;
+  padding: 0;
+  object-fit: cover;
+}
+.slider-section .owl-carousel .written {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: 0px 0px 7px 4px rgba(0, 0, 0, 0.058);
+  border-radius: 20px;
+  text-align: left;
+  gap: 1rem;
+}
+.slider-section .owl-carousel .written h4 {
+  color: var(--clr-one) !important;
+}
+.slider-section .owl-carousel .written p {
+  background-color: rgba(229, 241, 254, 0.677);
+  padding: 0.8rem;
+  border: solid var(--clr-one) 1px;
+  line-height: 1.8;
+  font-size: 16px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.168);
+}
+.slider-section .owl-carousel .written img {
+  max-width: 50px;
+}
+
+@media screen and (max-width: 1024px) {
+  .button-section {
+    gap: 2rem;
+  }
+}
+.active {
+  text-align: center;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: var(--clr-one);
+  border: solid 2px var(--clr-one);
+  transition: var(--transition);
+  font-weight: 500;
+  color: white;
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=test.css.map */

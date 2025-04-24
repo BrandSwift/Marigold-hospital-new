@@ -1,0 +1,156 @@
+[
+  {
+      "sections1": [
+        {
+          "image": "/facility/Outpatient Consultant.webp",
+          "title" : "Outpatient Consultation rooms",
+          "content": "Marigold Hospital has full fledged OPD with state of the art cabins for patient consultation. We cover most of the specialties. The lobby is equipped with all the facilities that are expected by a patients.",
+          "faqs": [
+            {
+              "question": "How to book an appointment?",
+              "answer": "You can call our service executive number asking for an appointment. Our executives will take the details and call you back to confirm the appointments."
+            },
+           
+            {
+              "question": "Parking Facility for patients",
+              "answer": "We do have a dedicated place for patients and visitors vehicle parking. Please ask our security person who will be happy to help you."
+            }
+          ]
+        }
+       
+      ],
+      "sections2": [
+        {
+          "image": "/facility/procedure.webp",
+          "title" : "Minor & Major  surgeries ",
+          "content": "We have a class apart procedure room to manage minor surgeries within the set up. The facility is good enough even to perform minor and major surgeries and its related disease conditions.",
+          "faqs": [
+            {
+              "question": "What all procedures do you conduct?",
+              "answer": "We limit ourselves to diabetic procedures and that is not needing long term anaesthesia General Anaesthesia. Any procedure conducted here will not exceed more than 30 min."
+            },
+            {
+              "question": "Do you conduct major surgeries?",
+              "answer": "This is a standalone centre for Diabetes and specialised for medical management of patients. If any of the patients needs surgeries, we will facilitate through our network of hospitals."
+            },
+            {
+              "question": "What is the Precautions?",
+              "answer": "Our doctors will advise on how to prepare yourself for the procedures. Our nursing team will  even help you prepare. On a case to case basis, they will advise on what to do before they are moved to the procedure room."
+            }
+          ]
+        }
+       
+      ],
+      "sections3": [
+        {
+          "image": "/facility/High Dependent Unit-min.webp ",
+          "title" : "High Dependency Unit",
+          "content": "Our high dependency wards are designed to offer managed care services within the  hospital environment. Our comprehensive team will take care of the health of the patients and monitor continuously to make sure the treatment is properly received.  At any given point of time, there will be a nurse to take care of each of the patients admitted in these wards.",
+          "faqs": [
+            {
+              "question": "I am physically fit and manage myself. Do I need HDU treatment?",
+              "answer": "This facility is for aged patients who need continuous monitoring and assistance in all possible ways. If you feel fit but still need admission, you will be ideally admitted to a ward where you will not be monitored for your daily routine."
+            },
+            {
+              "question": "Will there be a dedicated nurse for this facility?",
+              "answer": "We will have a dedicated nurse for all the In-patients but because they need assistance in all the daily routine, our nurses will be empowered and given more responsibilities to help them feel at  home in the hospital. Most of the time, the nurses will be at the bedside to help in their routine."
+            }
+           
+          ]
+        }
+       
+      ],
+      "sections4": [  
+        {
+          "image": "/facility/Physiotheraphy.webp",
+          "title" : "Regaining functions through exercise",
+          "content": "Our passive exercise therapists – Physiotherapists, professionally manage the  needs of the patients in regaining the functions of the body. They work in a team and add value in patient management.They discuss closely  with the treating physicians and plan the treatment to achieve maximum out-put through proper and monitored exercise At Marigold, we have fully automated Physiotherapy centre to cater the needs  of patients visiting the hospital.",
+          "faqs": [
+            {
+              "question": "Why physiotherapy in Diabetic Hospital?",
+              "answer": "Some of the neurological conditions affecting diabetics may be loose or may have limitations in complete functions of part or whole of the body. To gain its functionalities back, our physiotherapists designs few programs specific to the type of conditions and executes."
+            },
+            {
+              "question": "What is the concept of integrated care in Diabetes?",
+              "answer": "Collaborative treatment planning is the new trend in managing patients. In this case, our diabetologists sit with the physiotherapists to plan the physiotherapy protocol to make sure best treatment is offered to the patients."
+            },
+            {
+              "question": "What would be the duration of the Physiotherapy treatment?",
+              "answer": "It goes with the plan and it is different for each patient. But more or less, the duration for most of the cases would be around 10 days and for some chronic cases it may go beyond that. Your doctor will communicate this during your visit and before starting the physiotherapy."
+            }
+          ]
+        }
+       
+      ],
+      "sections5": [
+        {
+          "image": "/images/Dental6-min.webp",
+          "title" : "Complimenting Diabetic care",
+          "content": "Our in-house dental clinic is to mainly complement the diabetes care management. Maintaining proper blood sugar levels is a key component, as it can reduce the risk of gum disease and other oral complications. Regular dental check-ups, vigilant oral hygiene, and communication with your dentist about your diabetes are essential. By managing both your diabetes and dental health, you can enjoy a healthier, happier life.",
+          "faqs": [
+           {
+            "question":"Why is dental care important for people with diabetes?",
+            "answer" :"Dental care is crucial for diabetics because they are at a higher risk for oral health problems like gum disease and infections. Poor dental health can also affect blood sugar control."
+           },
+           {
+            "question":"How does diabetes affect oral health?",
+            "answer" :"High blood sugar levels can lead to increased glucose in saliva, which can promote the growth of harmful bacteria, causing dental issues."
+           },
+           {
+            "question":"What are the common dental problems associated with diabetes?",
+            "answer" :"Gum disease, dry mouth, slow healing of oral wounds, and a higher risk of cavities are common dental problems in diabetics."
+           }
+          ]
+         
+        }
+       
+      ],
+      "sections6": [
+        {
+          "image": "/facility/podiatory.webp",
+          "title" : "Podiatry",
+          "content": "Our podiatrist, take care of the diabetic complications affecting foot, ankle, toes etc. They will predict, prevent, diagnose the disease conditions of the foot due to the complications of diabetes and other disease conditions affecting the lower extremities. Our foot clinic is an exclusive facility for foot care and contributes to the integrated healthcare service for diabetes case management.",
+          "faqs": [
+            {
+              "question": "How a podiatrist can help a diabetic?",
+              "answer": "They help maintain the hygiene of the foot and hand, as unhygienic nail beds can be the reason for  infections. In concurrence with the treating physician, the specialist will take care of the extremities on a regular basis."
+            },
+            {
+              "question": "Why do people with diabetes are prone for foot ulcers?",
+              "answer": "The most common complication of diabetes is neuropathy and vascular occlusion. Both of these may cause ulcers due to altered sensation and reduced blood flow respectively. Ultimately, both cause non healing ulcers complimented by infections."
+            },
+            {
+              "question": "What are the complications if foot is not taken care in diabetics?",
+              "answer": "The major complication is foot ulcer that can be due to peripheral nerve damage, loss of blood and or due to infection due to unhygienic extremetix."
+            }
+          ]
+        }
+       
+      ],
+      "sections7": [
+        {
+          "image": "/facility/icu-image-new.webp",
+          "title" : "ICU & Critical care unit ",
+          "content": "The ICU & Critical care department is at the core of many life saving treatments. Patients are monitored round the clock in sterile, infection safe environments by highly trained physicians, specialist nurses, respiratory therapists, counsellors and a number of specialists that are on call to assist with emergency situations.",
+          "faqs": [
+            {
+              "question": "How long do patients stay in the ICU?",
+              "answer": "The length of stay in the ICU varies widely depending on the patient's condition. Some patients may stay for a few days, while others with more complex issues may require weeks or even months of care."
+            },
+            {
+              "question": "How is patient privacy and confidentiality maintained in the ICU?",
+              "answer": "Medical staff are trained to uphold strict privacy and confidentiality standards. Patient information is shared only with those directly involved in the patient's care, and access to the ICU is restricted."
+            },
+            {
+              "question": "Who are the patients in the ICU?",
+              "answer": "ICU patients typically include those with life-threatening conditions such as severe injuries, post-operative patients, those with respiratory failure, cardiac issues, infections, and other critical illnesses."
+            }
+          ]
+        }
+       
+      ]
+     
+    }
+]
+
+

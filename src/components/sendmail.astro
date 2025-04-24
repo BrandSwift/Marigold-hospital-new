@@ -1,0 +1,112 @@
+---
+import "../components/contact.css";
+---
+
+<div class="f-wrapper">
+  <form class="" action="https://www.marigoldhospitals.com/sendmail.php" method="post" >
+    <input
+      id="name"
+      name="name"
+      type="text"     
+      required
+      placeholder="enter your name"
+    />
+
+    <input
+      id="email"
+      name="email"
+      type="email"    
+      required
+      placeholder="enter your e-mail"
+    />
+
+    <input
+      id="number"
+      name="number"
+      type="text"
+     
+      required
+      placeholder="enter your mobile number"
+    />
+
+    <input
+      id="date"
+      name="date"
+      type="date"
+     
+      required
+      min={new Date().toISOString().split('T')[0]}
+      placeholder="*To Date"
+      onfocus="
+      (this.type = 'date')
+      "
+      onblur="(this.type='text')"
+    />
+
+    <select id="service" name="service"  >
+      <option value="" disabled selected>Select a service</option>
+
+      <option value="internal Medicine">Internal Medicine</option>
+      <option value="General Surgery">General Surgery</option>
+      <option value="Obstetrics and Gynaecology3"
+        >Obstetrics and Gynaecology</option
+      >
+      <option value="Peadiatrics">Peadiatrics</option>
+      <option value="Orthopaedics">Orthopaedics</option>
+      <option value="Endocrinology">Endocrinology</option>
+      <option value="Nephrology">Nephrology</option>
+      <option value="Opthalmology">Opthalmology</option>
+
+      <option value="Psychiatry">Psychiatry</option>
+
+      <option value="Dental">Dental</option>
+      <option value="X-ray">X-ray</option>
+      <option value="Physiotheraphy">Physiotheraphy</option>
+    </select>
+
+    <select id="health" name="health">
+      <option value="" disabled selected
+        >Select a Health Checkup Packages</option
+      >
+      <option value=" Matser Health Check up"> Matser Health Check up</option>
+      <option value="Executive Health Check Up"
+        >Executive Health Check Up</option
+      >
+      <option value="Cardiac Package 1">Cardiac Package 1</option>
+      <option value="Cardiac Package 2">Cardiac Package 2</option>
+      <option value="Cardiac Package 3">Cardiac Package 3</option>
+      <option value="Kindney Check Up">Kindney Check Up</option>
+      <option value="Well Women Health Check up"
+        >Well Women Health Check up</option
+      >
+      <option value="We Care Package">We Care Package</option>
+      <option value="Be Healthy Package">Be Healthy Package</option>
+      <option value="Diabetes Package 1">Diabetes Package 1</option>
+      <option value="Diabetes Package 2">Diabetes Package 2</option>
+      <option value="Diabetes Package 3">Diabetes Package 3</option>
+      <option value="Diabetes Package 4">Diabetes Package 4</option>
+      <option value="Diabetes Package 5">Diabetes Package 5</option>
+    </select>
+
+    <select id="branch" name="branch" >
+      <option value="" disabled selected>Select a branch</option>
+      <option value="BTM Layout">BTM Layout</option>
+      <option value="J.P.Nagar">J.P.Nagar</option>
+    </select>
+    
+    <div class="g-recaptcha" data-sitekey="6LfaXdIqAAAAAJ3BT5rFKNSH3WLy-IvvJcocp5Pe"
+            data-callback="recaptchaCallback" data-astro-cid-uw5kdbxl></div>
+
+          <!-- Hidden field to store reCAPTCHA token --> 
+           <input type="hidden" id="g-recaptcha-response"
+            name="g-recaptcha-response" data-astro-cid-uw5kdbxl>
+            
+    <div class="form-group">
+      <button class="btnnpabo" id="btns" type="submit"> SUBMIT</button>
+    </div>
+  </form>
+
+  
+</div>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+

@@ -1,0 +1,168 @@
+
+.button-section{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6rem;
+  justify-content: center;
+}
+
+.slider-section{
+  // height: 60vh;
+ 
+
+  .owl-carousel{
+    display: block !important;
+    z-index: 0;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: stretch;
+    position: relative;
+
+    .owl-dots{
+      display: none;
+    }
+    .owl-nav{
+      // background-color: red;
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+
+     
+
+      .owl-prev, .owl-next{
+        
+
+        &:hover{
+          background-color: transparent !important;
+        }
+        span{
+          font-size: 60px;
+          color: white;
+          display: block;
+          width: 60px;
+          line-height:0.8;
+          height: 60px;
+          
+          border-radius: 60px;
+          
+          
+          background-color: var(--clr-one);
+
+          &:hover{
+            background-color: var(--clr-one);
+          }
+        }
+      }
+    }
+
+
+    .owl-item{
+      display: block !important;
+      background-color: white !important;
+      color: black;
+      border: none;
+
+      
+    }
+
+    .patient{
+      img{
+        cursor: pointer;
+      }
+
+      video{
+        // height: 100% !important;
+        width: 100% !important;
+        height: 279.547px;
+        padding: 0;
+        object-fit: cover;
+      }
+    }
+    .written{
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      // height: 500px;
+      
+      background-color:white;
+      box-shadow: 0px 0px 7px 4px rgba(0, 0, 0, 0.058);
+      border-radius: 20px;
+      text-align: left;
+      gap: 1rem;
+
+      h4{
+       color: var(--clr-one) !important;
+      }
+
+      p{
+        background-color: rgba(229, 241, 254, 0.677);
+        padding: 0.8rem;
+        border: solid var(--clr-one) 1px;
+        line-height: 1.8;
+        font-size: 16px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.168);
+      }
+
+      img{
+        max-width: 50px;
+      }
+    }
+  }
+
+
+
+  
+}
+
+@media screen and (max-width: 1024px){
+  .button-section{
+   
+    gap: 2rem;
+    
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.active {
+  text-align: center;
+
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: var(--clr-one);
+  border: solid 2px var(--clr-one);
+  transition: var(--transition);
+  font-weight: 500;
+  color: white;
+  font-size: 16px;
+
+  // &:hover {
+  //   background-color: var(--clr-two);
+  //   border: solid 2px var(--clr-two);
+  //   color: white;
+  // }
+  }

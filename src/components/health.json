@@ -1,0 +1,1054 @@
+[
+  {
+      "sections1": [
+        {
+          "image": "/b1.png",
+          "title" : "MASTER HEALTH CHECK - UP",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": " Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": " Thyroid Profile"
+             
+            },
+            {
+              "question": " GGT / SGPT / SGOT"
+             
+            },
+            {
+              "question": " Lipid Profile"
+             
+            },
+            {
+              "question": " Blood Urea Nitrogen"
+             
+            },
+            {
+              "question": "Uric Acid"
+             
+            },
+            {
+              "question": "Albumin"
+             
+            },
+            {
+              "question": "Globulin"
+             
+            },
+            {
+              "question": "Total Bilirubin"
+             
+            },
+            {
+              "question": "VDRL"
+             
+            },
+            {
+              "question": "Complete Haemogram"
+             
+            },
+            {
+              "question": "Total Protein"
+             
+            },
+            {
+              "question": "Alkaline Phosphatase"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "Chest X-Ray"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Ultra Sound Scan of Abdomen & Pelvis"
+             
+            },
+            {
+              "question": "Pap Smear for Ladies"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Physician"
+             
+            },
+            {
+              "question": " Consultation with Gynaecologist"
+             
+            }
+           
+         
+     
+          ]
+        }
+       
+      ],
+      "sections2": [
+        {
+          "image": "/b1.png",
+          "title" : "EXECUTIVE HEALTH CHECK - UP",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": " Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": " Thyroid Profile"
+             
+            },
+            {
+              "question": " GGT / SGPT / SGOT"
+             
+            },
+            {
+              "question": " Lipid Profile"
+             
+            },
+            {
+              "question": " Blood Urea Nitrogen"
+             
+            },
+            {
+              "question": "Uric Acid"
+             
+            },
+            {
+              "question": "Albumin"
+             
+            },
+            {
+              "question": "Globulin"
+             
+            },
+            {
+              "question": "Total Bilirubin"
+             
+            },
+            {
+              "question": "VDRL"
+             
+            },
+            {
+              "question": "Complete Haemogram"
+             
+            },
+            {
+              "question": "Total Protein"
+             
+            },
+            {
+              "question": "Alkaline Phosphatase"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "Chest X-Ray"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Ultra Sound Scan of Abdomen & Pelvis"
+             
+            },
+            {
+              "question": "Pap Smear for Ladies"
+             
+            },
+            {
+              "question": " Computerised Stress Test (TMT)"
+             
+            },
+            {
+              "question": "Pulmonary Function Test (PFT)"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Physician"
+             
+            },
+            {
+              "question": " Consultation with Gynaecologist(For Females)"
+             
+            }
+           
+         
+     
+          ]
+        }
+       
+      ],
+      "sections3": [
+        {
+          "image": "/b1.png",
+          "title" : "CARDIAC PACKAGE I",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": " Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Complete Blood Count"
+             
+            },
+            {
+              "question": " Serum Creatinine"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": " Urine Routine"
+             
+            },  
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Treadmill Test (TMT)"
+             
+            },
+            {
+              "question": "Physical Examination (Height, Weight & BP)"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Physician / Cardiologist"
+             
+            }
+           
+           
+         
+     
+          ]
+        },
+        {
+          "image": "/b1.png",
+          "title" : "CARDIAC PACKAGE II",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": " Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Complete Blood Count"
+             
+            },
+            {
+              "question": " Serum Creatinine"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": " Urine Routine"
+             
+            },  
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Treadmill Test (TMT)"
+             
+            },
+            {
+              "question": "2D Echo"
+             
+            },
+            {
+              "question": "Physical Examination (Height, Weight & BP)"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Physician / Cardiologist"
+             
+            }
+           
+           
+         
+     
+          ]
+        }
+
+       
+      ],
+     
+      "sections4": [
+        {
+          "image": "/b1.png",
+          "title" : "KIDNEY HEALTH CHECK UP",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": " Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Blood Urea Nitrogen"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Sodium"
+             
+            },
+            {
+              "question": " Potassium"
+             
+            },  
+            {
+              "question": "Chloride"
+             
+            },
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "Ultra Sound Scan Of Abdomen And Pelvis"
+             
+            },
+           
+            {
+              "question": "Physical Examination (Height, Weight & BP)"
+             
+            },
+           
+            {
+              "question": "Consultation with Physician"
+             
+            }
+           
+           
+         
+     
+          ]
+        }
+       
+      ],
+      "sections5": [
+        {
+          "image": "/b1.png",
+          "title" : "WELL WOMEN HEALTH CHECK UP",
+          "features": [
+            {
+              "question": "Random Blood Sugar"
+             
+            },
+            {
+              "question": " Thyroid Stimulating Hormone (TSH)"
+             
+            },
+            {
+              "question": "Complete Blood Count"
+             
+            },
+            {
+              "question": "Pap Smear"
+             
+            },
+           
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "Ultra Sound Scan Of Abdomen And Pelvis"
+             
+            },
+            {
+              "question": "Chest X-ray"
+             
+            },
+           
+            {
+              "question": "Physical Examination (Height, Weight & BP)"
+             
+            },
+           
+            {
+              "question": "Consultation with Physician"
+             
+            }
+           
+           
+         
+     
+          ]
+        }
+       
+      ],
+      "sections6": [
+        {
+          "image": "/b1.png",
+          "title" : "DIABETES PACKAGE I",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+           
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Foot Screening"
+             
+            },
+            {
+              "question": "Consultation with Diabetologist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            }
+           
+           
+         
+     
+          ]
+        },
+        {
+          "image": "/b1.png",
+          "title" : "DIABETES PACKAGE II",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Glycosylated Haemoglobin (HbA1c)"
+             
+            },
+           
+            {
+              "question": "Urine Microalbumin : Creatinine ratio"
+             
+            },
+            {
+              "question": "SGOT / SGPT"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Foot Screening"
+             
+            },
+            {
+              "question": "Diet Counselling"
+             
+            },
+            {
+              "question": "Consultation with Diabetologist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            }
+           
+           
+         
+     
+          ]
+        },
+        {
+          "image": "/b1.png",
+          "title" : "DIABETES PACKAGE III",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Glycosylated Haemoglobin (HbA1c)"
+             
+            },
+           
+            {
+              "question": "Urine Microalbumin : Creatinine ratio"
+             
+            },
+            {
+              "question": "SGOT / SGPT"
+             
+            },
+            {
+              "question": "Sodium"
+             
+            },
+            {
+              "question": "Potassium"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Thyroid Stimulating Hormone (TSH)"
+             
+            },
+            {
+              "question": "Foot Screening"
+             
+            },
+            {
+              "question": "Diet Counselling"
+             
+            },
+            {
+              "question": "Consultation with Diabetologist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": "Breakfast"
+             
+            }
+           
+           
+         
+     
+          ]
+        },
+        {
+          "image": "/b1.png",
+          "title" : "DIABETES PACKAGE IV",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Uric Acid"
+             
+            },
+            {
+              "question": "Complete Haemogram"
+             
+            },
+            {
+              "question": "Glycosylated Haemoglobin (HbA1c)"
+             
+            },
+           
+            {
+              "question": "Ultrasound Scan of Abdomen & Pelvis"
+             
+            },
+           
+            {
+              "question": "Urine Microalbumin : Creatinine ratio"
+             
+            },
+            {
+              "question": "SGOT / SGPT Alkaline Phosphatase"
+             
+            },
+            {
+              "question": "Sodium"
+             
+            },
+            {
+              "question": "Potassium"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Thyroid Stimulating Hormone (TSH)"
+             
+            },
+            {
+              "question": "Foot Screening"
+             
+            },
+            {
+              "question": "Diet Counselling"
+             
+            },
+            {
+              "question": "Consultation with Diabetologist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Breakfast"
+             
+            }
+           
+           
+         
+     
+          ]
+        },
+        {
+          "image": "/b1.png",
+          "title" : "DIABETES PACKAGE IV",
+          "features": [
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            },
+            {
+              "question": "Uric Acid"
+             
+            },
+            {
+              "question": "TMT / 2D Echo"
+             
+            },
+            {
+              "question": "Complete Haemogram"
+             
+            },
+            {
+              "question": "Glycosylated Haemoglobin (HbA1c)"
+             
+            },
+           
+            {
+              "question": "Ultrasound Scan of Abdomen & Pelvis"
+             
+            },
+           
+            {
+              "question": "Urine Microalbumin : Creatinine ratio"
+             
+            },
+            {
+              "question": "SGOT / SGPT Alkaline Phosphatase"
+             
+            },
+            {
+              "question": "Sodium"
+             
+            },
+            {
+              "question": "Potassium"
+             
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": "Thyroid Stimulating Hormone (TSH)"
+             
+            },
+            {
+              "question": "Foot Screening"
+             
+            },
+            {
+              "question": "Diet Counselling"
+             
+            },
+            {
+              "question": "Consultation with Diabetologist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": "Consultation with Cardiologist"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Breakfast"
+             
+            }
+           
+           
+         
+     
+          ]
+        }
+       
+      ],
+      "sections7": [
+        {
+          "image": "/b1.png",
+          "title" : "WE CARE PACKAGE (ONLY FOR LADIES)",
+          "features1": [
+            {
+              "question" : "Diabetes & Thyroid Test"
+            },
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Post Prandial Blood Sugar"
+             
+            },
+            {
+              "question": "Thyroid Profile"
+             
+            }
+          ],
+          "features2": [
+            {
+              "question" : "Kidney Test"
+            },
+            {
+              "question": "Blood Urea Nitrogen"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            }
+           
+           
+          ],
+          "features3": [
+            {
+              "question" : "Heart Test"
+            },
+            {
+              "question": "ECG"
+             
+            },
+            {
+              "question": " Lipid Profile"
+             
+            }
+           
+           
+          ],
+          "features4": [
+            {
+              "question" : "Liver Test"
+            },
+            {
+              "question": "Total Bilirubin"
+             
+            },
+            {
+              "question": "SGOT/SGPT"
+             
+            }
+           
+           
+          ],
+          "features5": [
+            {
+              "question" : "Consultation"
+            },
+            {
+              "question": "Consultation with Gynaecologist / Physician"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            },
+            {
+              "question": " Consultation with Dietician"
+             
+            },
+            {
+              "question": "General Routine"
+             
+            }
+           
+           
+          ]
+        }
+       
+       
+      ],
+      "sections8": [
+        {
+          "image": "/b1.png",
+          "title" : "BE HEALTHY PACKAGE",
+          "features1": [
+            {
+              "question" : "Diabetes & Thyroid Test"
+            },
+            {
+              "question": "Fasting Blood Sugar"
+             
+            },
+            {
+              "question": "Thyroid Stimulating Hormone"
+             
+            }
+           
+          ],
+          "features2": [
+            {
+              "question" : "Kidney Test"
+            },
+            {
+              "question": "Blood Urea Nitrogen"
+             
+            },
+            {
+              "question": "Creatinine"
+             
+            }
+           
+           
+          ],
+          "features3": [
+            {
+              "question" : "Heart Test"
+            },
+            {
+              "question": " ECG"
+             
+            },
+            {
+              "question": "Lipid Profile"
+             
+            }
+           
+           
+          ],
+          "features4": [
+            {
+              "question" : "Liver Test"
+            },
+            {
+              "question": "Total Bilirubin"
+             
+            },
+            {
+              "question": "SGOT/SGPT"
+             
+            }
+           
+           
+          ],
+          "features5": [
+            {
+              "question" : "Consultation"
+            },
+            {
+              "question": "Consultation with Physician"
+             
+            },
+            {
+              "question": "Consultation with Dentist"
+             
+            },
+            {
+              "question": "Consultation with Ophthalmologist"
+             
+            }
+           
+           
+           
+           
+          ],
+          "features6": [
+            {
+              "question" : "Consultation"
+            },
+            {
+              "question": "Complete blood count"
+             
+            },
+            {
+              "question": "Urine Routine"
+             
+            },
+            {
+              "question": "Chest X-ray"
+             
+            },
+            {
+              "question": "Ultra Sound Scan Of Abdomen"
+             
+            }
+           
+           
+           
+           
+          ]
+        }
+       
+       
+      ]
+
+
+
+     
+     
+     
+     
+     
+     
+    }
+]
+
+
+

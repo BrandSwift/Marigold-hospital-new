@@ -1,0 +1,138 @@
+---
+const { title , seotag ,   content , image1 , image2, icon , para, t1, t2, tp1, tp2, link} = Astro.props;
+
+import Pagebanner from "../components/pagebanner.astro";
+---
+
+
+<div>
+     
+   <div class="container">
+ 
+   <div class="section-pad">
+    <Pagebanner  title={title} img1="/images/Xray.4-min.webp" img2="/images/Lab.4-min.webp"  />
+   </div>
+   </div>
+
+
+    <div class="container">
+
+   <div class="section-pad ">
+    <div class="topic">
+        <div class="row justify-content-center align-items-center gx-5 gy-5 ">
+            <div class="col-lg-3 text-center">
+                <img src={icon} alt={`marigold-hospital-${title}`} >
+            </div>
+            <div class="col-lg-7 d-flex flex-column gap-4">
+                <h2 class="section-title text-white">{title}</h2>
+                <h1 class="fw-bold">{seotag}</h1>
+                <p class="text-white ">{content}</p>
+            </div>
+         </div>
+    
+    </div>
+   </div>
+
+
+     <div class="section-pad why-us">
+        <div class="row justify-content-around align-items-center gx-5 gy-5 gap-2 ">
+            <div class="col-lg-5">
+                <img src={image1} alt={`marigold-hospital-${title}2`} class="img-col-width">
+            </div>
+            <div class="col-lg-5 d-flex flex-column gap-4">
+                <h6 class="section-title">Why Marigold Hospital?</h6>
+                <p class="text-justify">
+                    Marigold Hospital strives to attain excellence by pursuing multifaceted missions of research, services and utmost quality of patient care. Our combined patient-centric care along with the expertise of specialists and advanced medical technology provides therapeutic treatment with an aim to promote not only preventive care but counselling for lifestyle modification as well. Contact us if you are looking for internal medicine services in Bangalore. 
+                </p>
+            </div>
+        </div>
+     </div>
+
+     <div class="sectio-pad about">
+        <div class="row justify-content-around align-items-center gx-5 gy-5 ">
+            <div class="col-lg-5">
+                
+                <p>
+                    {para}
+                </p>
+            </div>
+            <div class="col-lg-5">
+                <img src={image2} alt={`marigold-hospital-${title}3`} class="img-col-width">
+            </div>
+        </div>
+     </div>
+
+     
+
+
+    </div>
+</div>
+
+
+<style lang="scss">
+    .img-col-width{
+        max-width: 100%;
+    }
+    .topic{
+        background-color: red ;
+        padding: 3rem 0;
+        background-color: var(--clr-one-3);
+        border-radius: 25px;
+
+        .row{
+            img{
+                height: 200px;
+                object-fit: contain;
+            }
+
+            p{
+                text-align: justify !important;
+                
+            }
+        }
+    }
+
+    .why-us{
+        p{
+                text-align: justify !important;
+                
+            }
+    }
+
+    .about{
+        p{
+                text-align: justify !important;
+                
+            }
+    }
+
+    .treatments{
+
+        >:nth-child(1){
+            border: solid 2px var(--clr-one);
+            border-radius: 15px;
+
+            .treatment-wrapper{
+                padding: 2rem  ;
+            }
+        }
+        >:nth-child(2){
+            border: solid 2px var(--clr-one);
+            border-radius: 15px;
+
+            .treatment-wrapper{
+                padding: 2rem  ;
+            }
+        }
+    }
+
+
+    @media screen and (max-width: 991px){
+         .topic{
+            padding: 0 2rem;
+            .row{
+                text-align: center;
+            }
+         }
+    }
+</style>

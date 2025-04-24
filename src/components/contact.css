@@ -1,0 +1,58 @@
+.f-wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+form {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+form button {
+  width: 100%;
+}
+
+label {
+  color: white;
+  display: none;
+}
+
+input,
+textarea,
+select {
+  width: 100% !important;
+  padding: 10px;
+  height: 42px;
+  margin-bottom: 10px;
+  border: 1px solid var(--clr-one) !important;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  outline: none; /* Remove the focus outline */
+}
+
+select option {
+  background-color: var(--clr-one-light) !important;
+  font-family: var(--ff-base) !important;
+  font-size: 16px !important;
+  color: white;
+  margin-bottom: 30px !important;
+  height: 80px !important;
+  padding: 4rem 0 !important;
+}
+select option:hover {
+  background-color: var(--clr-two-light) !important;
+}
+
+input[type=date] {
+  width: 100% !important;
+}
+
+input:focus {
+  outline: none !important;
+}
+
+/*# sourceMappingURL=contact.css.map */

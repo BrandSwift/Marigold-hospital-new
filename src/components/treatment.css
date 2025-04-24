@@ -1,0 +1,53 @@
+.treatment-slider .slide {
+  background-color: rgb(243, 218, 195);
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding: 2rem;
+}
+
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  display: flex;
+  padding: 0 15rem;
+  justify-content: space-between;
+}
+@media screen and (max-width: 425px) {
+  .owl-nav {
+    display: none;
+  }
+}
+.owl-nav .owl-prev,
+.owl-nav .owl-next {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgba(255, 115, 0, 0.662) !important;
+  position: relative;
+}
+.owl-nav .owl-prev:hover,
+.owl-nav .owl-next:hover {
+  background-color: rgb(255, 115, 0) !important;
+}
+.owl-nav .owl-prev span,
+.owl-nav .owl-next span {
+  font-size: 50px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 425px) {
+  .treatment-slider .slide {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=treatment.css.map */

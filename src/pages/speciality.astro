@@ -1,0 +1,33 @@
+---
+import Pagebanner from "../components/pagebanner.astro";
+import Layout from "../layouts/Layout.astro";
+import Special from "../components/special.jsx";
+---
+
+<Layout title="Speciality" canonical="" link="">
+  <div class="">
+    <div class="container">
+      <Pagebanner
+        title="Speciality"
+        img1="/images/ICU12-min.webp"
+        img2="/images/ICU3-min.webp"
+        content=""
+      />
+    </div>
+  </div>
+
+  <section class="section-pad sp-wrap">
+    <div class="bg">
+      <img src="/bluewave.webp" alt="marigold-hospital-bluewave-5" />
+    </div>
+    <div class="container">
+      <Special client:load />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .sp-wrap {
+    position: relative;
+  }
+</style>

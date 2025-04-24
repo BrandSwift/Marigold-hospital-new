@@ -1,0 +1,80 @@
+.active {
+  text-align: center;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: var(--clr-one);
+  border: solid 2px var(--clr-one);
+  transition: var(--transition);
+  font-weight: 500;
+  color: white;
+  font-size: 16px;
+}
+
+.button-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.health-grid {
+  padding: 3rem 0;
+}
+.health-grid .item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+@media screen and (max-width: 1200px) {
+  .health-grid .item {
+    justify-content: center;
+  }
+}
+.health-grid .item-wrapper {
+  display: flex !important;
+  height: auto;
+  flex-direction: column;
+  gap: 20px;
+  background-color: aliceblue;
+  padding: 2rem 2rem;
+  border-radius: 25px;
+  box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.227);
+}
+.health-grid .item-wrapper .sub-head {
+  padding: 0.6rem 3rem;
+  text-align: center;
+  border-radius: 15px;
+  background-color: var(--clr-one-light);
+}
+.health-grid .item-wrapper .women2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.health-grid .item-wrapper ul {
+  list-style-type: disc;
+  padding-left: 1rem;
+  display: flex !important;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 1.6rem !important;
+  height: auto;
+}
+.health-grid .item-wrapper ul li {
+  text-decoration: underline;
+}
+
+.active {
+  text-align: center;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: var(--clr-one);
+  border: solid 2px var(--clr-one);
+  transition: var(--transition);
+  font-weight: 500;
+  color: white;
+}
+
+/*# sourceMappingURL=health.css.map */

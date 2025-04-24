@@ -1,0 +1,154 @@
+---
+import Faq from "../components/faq.jsx";
+---
+
+<script>
+  const buttons = document.querySelectorAll(".tab-button");
+  const contents = document.querySelectorAll(".tab-content");
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      buttons.forEach((btn) => btn.classList.remove("active"));
+      contents.forEach((content) => content.classList.add("hidden"));
+
+      const target = button.getAttribute("data-target");
+      const targetContent = document.getElementById(target);
+
+      button.classList.add("active");
+      targetContent.classList.remove("hidden");
+    });
+  });
+
+
+ 
+
+
+</script>
+
+<div class="button-section">
+  <button class="tab-button btnn active" data-target="div1">
+    Endocrinology</button
+  >
+  <button class="tab-button btnn" data-target="div2">Opthalmology</button>
+  <button class="tab-button btnn" data-target="div3">Nephrology</button>
+  <button class="tab-button btnn" data-target="div4">Psychiatrist</button>
+  <button class="tab-button btnn" data-target="div5">Orthopedics</button>
+  <button class="tab-button btnn" data-target="div6">General Surgery</button>
+  <button class="tab-button btnn" data-target="div7">Gynaecologist</button>
+  <button class="tab-button btnn" data-target="div8">Physician</button>
+  <button class="tab-button btnn" data-target="div9">Pharmacy</button>
+</div>
+
+<div class="content-section">
+  <div id="div1" class="tab-content">
+    <div class="heading">
+      <span>Endocrinology</span>
+    </div>
+
+    <p>
+      The science that deals with the hormones and its functions is
+      Endocrinology. This discipline in medicine is a relatively new
+      specialization taking care of the disease conditions that are because of
+      impairment of the hormone production and its actions. There are seven
+      glands in the human body that produce essential hormones. The impaired
+      action may be of developmental delays to behavioural abnormality. All
+      these glands are controlled by Hypothalamus, a part of brain. Impaired
+      action of this part of the brain will also lead to endocrine problems. Our
+      doctors at Marigold are specialized in addressing these issues and
+      excelled managing these disease conditions. Some of the most common
+      endocrine disorders are listed below.
+    </p>
+
+    <div>
+        <Faq client:load />
+    </div>
+  </div>
+
+  <div id="div2" class="tab-content hidden">Content 2</div>
+
+  <div id="div3" class="tab-content hidden">Content 3</div>
+
+  <div id="div4" class="tab-content hidden">Content 4</div>
+
+  <div id="div5" class="tab-content hidden">Content 5</div>
+
+  <div id="div6" class="tab-content hidden">Content 6</div>
+
+  <div id="div7" class="tab-content hidden">Content 7</div>
+
+  <div id="div8" class="tab-content hidden">Content 8</div>
+
+  <div id="div9" class="tab-content hidden">Content 9</div>
+</div>
+
+<style lang="scss">
+  .button-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  .hidden {
+    display: none;
+  }
+
+  .active {
+    text-align: center;
+
+    padding: 0.4rem 1rem;
+    border-radius: 6px;
+    border: none;
+    background-color: var(--clr-one);
+    border: solid 2px var(--clr-one);
+    transition: var(--transition);
+    font-weight: 500;
+    color: white;
+    font-size: 16px;
+
+    &:hover {
+      background-color: var(--clr-one);
+
+      color: white;
+    }
+  }
+
+
+  .faq {
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.faq-question {
+  padding: 10px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.faq-icon {
+  font-size: 20px;
+  margin-right: 10px;
+  transition: transform 0.3s;
+}
+
+.faq-icon.active {
+  transform: rotate(-45deg);
+}
+
+.faq-answer {
+  padding: 10px;
+  background-color: #fff;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease-out;
+}
+
+.faq-answer.active {
+  max-height: 100px; /* Adjust as needed */
+}
+</style>

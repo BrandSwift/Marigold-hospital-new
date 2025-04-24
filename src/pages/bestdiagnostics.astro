@@ -1,0 +1,38 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Diagnosis from "../components/diagnosis.jsx";
+import Pagebanner from "../components/pagebanner.astro";
+
+---
+
+
+<Layout title="Best Diagnostics in Bangalore" canonical="https://www.marigoldhospitals.com/bestdiagnostics/" link="">
+<div class="diagnostics section-pad">
+    <div class="container">
+        <Pagebanner title="Diagnostics" img1="/images/Xray.4-min.webp" img2="/images/Lab.4-min.webp" content="" />
+    </div>
+</div>
+
+<div class="section-pad diagnos">
+    <div class="bg">
+        <img src="/bluewave.webp" alt="marigold-hospital-best-diagnostics">
+    </div>
+    <div class="container">
+        <div class="section-title">
+
+        </div>
+        <Diagnosis client:load />
+    </div>
+</div>
+
+
+</Layout>
+
+<style lang="scss">
+.diagnos{
+    position:relative;
+}
+</style>
+
+
+

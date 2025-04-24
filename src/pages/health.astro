@@ -1,0 +1,35 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Pagebanner from "../components/pagebanner.astro";
+import Healths from "../components/health.json"
+import Healthtile from "../components/health.jsx"
+---
+
+
+<Layout title="Comprehensive Health Services at Marigold Hospitals | Your Trusted Care Partner" canonical="https://www.marigoldhospitals.com/health/" link="">
+<div class="container">
+    <div class="section-pad">
+      <Pagebanner title="Health Packages" img1="/images/Xray.4-min.webp" img2="/images/Lab.4-min.webp" />
+
+      
+    </div>
+</div>
+
+
+  <div class="section-pad healthy">
+    <div class="bg">
+        <img src="/bluewave.webp" alt="marigold-hospital-bluewave-healthy">
+    </div>
+    <div class="container">
+        <Healthtile client:load />
+       </div>
+  </div>
+
+
+</Layout>
+
+<style lang="scss">
+   .healthy{
+    position: relative;
+   }
+</style>

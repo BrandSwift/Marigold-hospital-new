@@ -1,0 +1,433 @@
+---
+---
+
+<div class="service-grid">
+  <div class="cols col-one">
+    <div class="section-title">
+      Marigold Hospital <span style={{color:'blue'}}>Speciality</span>
+    </div>
+    <p>Centre of Excellence in Diabetes and Endocrine care</p>
+    <img src="/spbg.webp" alt="marigold-hospital-speciality" class="spbg" />
+  </div>
+  <div class="cols service-1 blu-light-bg services" data-aos="zoom-in">
+   
+
+    <h2 class="sub-head">Internal Medicine</h2>
+    <p>
+      Guiding health journeys with expertise and compassion, the guardians of
+      well-being.
+    </p>
+
+    <div class="round">
+      <a href="/internal-medicine">
+        <img src="/next.webp" alt="marigold-hospital-internal-medicine" />
+      </a>
+    </div>
+  </div>
+  <div class="service-2 oge-light-bg services" data-aos="zoom-in">
+   
+
+    <h2 class="sub-head">General Surgery</h2>
+    <p>
+      Mastering the art of healing, where skilled hands sculpt stories of
+      recovery.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-general-surgery" />
+      </a>
+    </div>
+  </div>
+  <div class="service-3 blu-light-bg services" data-aos="zoom-in">
+    
+
+    <h2 class="sub-head">Obstetrics and Gynaecology</h2>
+    <p>
+      Nurturing life's beginnings, advocating for women's health and fostering
+      empowerment.
+    </p>
+    <div class="round">
+      <a href="/gynecology">
+        <img src="/next.webp" alt="marigold-hospital-gynaecology" />
+      </a>
+    </div>
+  </div>
+  <div class="service-4 services oge-light-bg" data-aos="zoom-in">
+    <h2 class="sub-head">Peadiatrics</h2>
+    <p>
+      The branch of medicine that involves the medical care of infants, children, adolescents, and young adults.
+    </p>
+
+    
+    <div class="round">
+      <a href="multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-peadiatrics" />
+      </a>
+    </div>
+  </div>
+  <div class="service-5 blu-light-bg services" data-aos="zoom-in">
+    <h2 class="sub-head">Orthopaedics</h2>
+    <p>
+      Crafting strong foundations, mending bones, and restoring the body's agile
+      symphony.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-orthopaedics" />
+      </a>
+    </div>
+  </div>
+  <div class="service-6 blu-light-bg services" data-aos="zoom-in">
+    <h2 class="sub-head">Endocrinology</h2>
+    <p>
+      Exploring the intricate web of hormones that orchestrate health and
+      harmony within the body.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-endocrinology" />
+      </a>
+    </div>
+  </div>
+  <div class="service-7 services oge-light-bg" data-aos="zoom-in">
+    <h2 class="sub-head">Nephrology</h2>
+    <p>
+      Guardians of balance, delving into the intricacies of kidney function and
+      fluid harmony.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-nephrology" />
+      </a>
+    </div>
+  </div>
+  <div class="service-8 blu-light-bg services" data-aos="zoom-in">
+    <h2 class="sub-head">Opthalmology</h2>
+    <p>
+      Nurturing sight, from intricate retinal dances to the art of corrective
+      clarity.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-opthalmology" />
+      </a>
+    </div>
+  </div>
+  <div class="service-9 services oge-light-bg" data-aos="zoom-in">
+    <h2 class="sub-head">Psychiatry </h2>
+    <p>
+      Unraveling minds, mending souls, and illuminating the labyrinth of mental
+      well-being.
+    </p>
+    <div class="round">
+      <a href="/multispeciality">
+        <img src="/next.webp" alt="marigold-hospital-psychiatry" />
+      </a>
+    </div>  
+</div>
+
+<style lang="scss">
+
+  
+  .service-grid {
+    display: grid;    
+    grid-template-columns: 400px repeat(4, 1fr);
+    grid-template-rows: repeat(3, auto);
+
+    .col-one {
+      grid-column: 1 / 3;
+      grid-row: 1 / 3;
+      // background-color: red;
+
+      .spbg {
+        // display: none;
+        width: 100%;
+      }
+    }
+
+    .service-1 {
+      grid-column-start: 4;
+    }
+    .service-2 {
+      grid-column-start: 5;
+    }
+    .service-3 {
+      grid-column-start: 3;
+    }
+    .service-4 {
+      grid-column-start: 4;
+    }
+    .service-5 {
+      grid-column-start: 5;
+    }
+    .service-6 {
+      grid-column-start: 2;
+    }
+    .service-7 {
+      grid-column-start: 3;
+    }
+    .service-8 {
+      grid-column-start: 4;
+    }
+    .service-9 {
+      grid-column-start: 5;
+    }
+
+    .service-1,
+    .service-3,
+    .service-5,
+    .service-6,
+    .service-8 {
+      background-color: var(--clr-one-light);
+      transition: var(--transition);
+      height: 310px;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      gap: 30px;
+      color: white;
+      .sub-head {
+        color: white;
+      }
+
+      img {
+        max-width: 30px;
+      }
+
+      .round {
+        background-color: white;
+        width: 50px;
+        height: 50px;
+
+        border-radius: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.284);
+      }
+
+      &:hover {
+        // background-color: var(--clr-one-light);
+        transform: scale(1.1) !important;
+        z-index: 3;
+        border: solid 2px white;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.421);
+      }
+    }
+    .service-2,
+    .service-4,
+    .service-7,
+    .service-9 {
+      background-color: var(--clr-two-light);
+      transition: var(--transition);
+      height: 310px;
+      padding: 1rem;
+      display: flex;
+      color: white;
+      flex-direction: column;
+      justify-content: flex-start;
+      gap: 30px;
+      .sub-head {
+        color: white;
+      }
+
+      img {
+        max-width: 30px;
+      }
+
+      .round {
+        background-color: rgb(255, 255, 255);
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0px 0px 6px 2px rgba(0, 0, 0, 0.284);
+      }
+
+      &:hover {
+        // background-color: var(--clr-one-light);
+        transform: scale(1.1) !important;
+        z-index: 3;
+        border: solid 2px white;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.421);
+      }
+      // .sub-head {
+      //   color: white;
+      // }
+    }
+  }
+
+  @media screen and (max-width: 1400px) {
+    .service-grid {
+      grid-template-columns: repeat(4, auto);
+      .col-one {
+        display: none;
+      }
+
+      .service-1,
+      .service-3,
+      .service-5,
+      .service-6,
+      .service-8 {
+        height: 290px;
+      }
+      .service-2,
+      .service-4,
+      .service-7,
+      .service-9 {
+        height: 290px;
+      }
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    .speciality {
+      .tab-title {
+        display: block;
+        text-align: center;
+      }
+      .service-grid {
+        grid-template-columns: repeat(4, auto);
+        .col-one {
+          display: none;
+        }
+
+        .service-1,
+        .service-3,
+        .service-5,
+        .service-6,
+        .service-8 {
+          height: 290px;
+        }
+        .service-2,
+        .service-4,
+        .service-7,
+        .service-9 {
+          height: 290px;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    .service-grid {
+      grid-template-columns: repeat(2, 1fr);
+
+      .service-1 {
+        grid-column-start: 1;
+      }
+      .service-2 {
+        grid-column-start: 2;
+      }
+      .service-3 {
+        grid-column-start: 2;
+      }
+      .service-4 {
+        grid-column-start: 1;
+        grid-row: 2/3;
+      }
+      .service-5 {
+        grid-column-start: 1;
+      }
+      .service-6 {
+        grid-column-start: 1;
+        background-color: var(--clr-two-light);
+      }
+      .service-7 {
+        grid-column-start: 2;
+        grid-row: 3/4;
+      }
+      .service-8 {
+        grid-column-start: 2;
+      }
+      .service-9 {
+        grid-column-start: 1;
+        background-color: var(--clr-one-light);
+        .sub-head{
+          color: white;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 690px) {
+
+    .service-grid{
+      grid-template-columns: repeat(1, 1fr) !important ;
+      grid-row: repeat ( 9 , auto);
+      margin: 0 auto ;
+
+
+      .service-1 {
+        grid-column-start: 1;
+      }
+      .service-2 {
+        grid-column-start: 1;
+        grid-row: 2/3 !important;
+      }
+      .service-3 {
+        grid-column-start: 1;
+        grid-row: 3/4 !important;
+      }
+      .service-4 {
+        grid-column-start: 1;
+        grid-row: 4/5 !important;
+      }
+      .service-5 {
+        grid-column-start: 1;
+        grid-row: 5/6 !important;
+      }
+      .service-6 {
+        grid-column-start: 1;
+        background-color: var(--clr-two-light);
+        grid-row: 6/7 !important;
+        color: white !important;
+      }
+      .service-7 {
+        grid-column-start: 1;
+        grid-row: 7/8!important;
+       
+        background-color: var(--clr-one-light);
+        
+
+        
+      }
+      .service-8 {
+        grid-column-start: 1;
+        background-color: var(--clr-two-light);
+      }
+      .service-9 {
+        grid-column-start: 1;
+        background-color: var(--clr-one-light);
+        .sub-head{
+          color:white; 
+        }
+      }
+    }
+
+
+    .service-1,
+    .service-3,
+    .service-5,
+    .service-6,
+    .service-8 {
+      height: 290px;
+
+      p {
+        font-size: 16px;
+      }
+    }
+    .service-2,
+    .service-4,
+    .service-7,
+    .service-9 {
+      height: 290px;
+
+      p {
+        font-size: 16px;
+      }
+    }
+  }
+</style>

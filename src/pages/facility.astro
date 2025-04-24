@@ -1,0 +1,25 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Facilities from "../components/facility.jsx"
+import Pagebanner from "../components/pagebanner.astro";
+
+---
+
+<Layout title=" Best Facilities for Patients in Bangalore" canonical="https://www.marigoldhospitals.com/facility/" link="">
+    
+   <div class="section-pad">
+    <div class="container">
+        <Pagebanner title="Facilities" img1="/images/OT4-min.webp" img2="/images/Dental6-min.webp"/>
+    
+        </div>
+   </div>
+    <div class="section-pad">
+        <div class="container">
+            <Facilities client:load />
+        </div>
+    </div>
+
+
+    
+</Layout>
+

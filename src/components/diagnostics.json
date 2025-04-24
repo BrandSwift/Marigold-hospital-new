@@ -1,0 +1,148 @@
+[
+  {
+    "sections1": [
+      {
+        "image": "/Diagnostics/TMT.webp",
+        "content": "TMT is the most widely used tool to assess the functional capacity of the heart. An uncontrolled diabetes will affect the functions of all the organs, and this tool is part of the management protocols to assess the status of heart function amongst our diabetic patients. Our physician works closely with the technicians to access this function.The findings of this tool will help our doctors to plan the treatment.",
+        "faqs": [
+          {
+            "question": "Is this a diagnostic or therapeutic tool?",
+            "answer": "TMT is a diagnostic tool to access the function. In a comprehensive management approach,  it is mandatory for the doctor to access the functions of heart in diabetics to manage appropriately."
+          },
+          {
+            "question": "What is Silent cardiac arrest? Silent MI ?",
+            "answer": "Diabetics have the tendencies of having heart attacks “MI” without pain. Many times due to neuropathy, patients may not experience the pain due to MI and may suddenly die giving no  chance to review. It is hence necessary to undergo preventive health check to know the  status of the heart function, ideally annually to make sure they are not prone for MI or if they experience it, they could give sufficient time to intervene."
+          },
+          {
+            "question": "Is this part of the Health Packages?",
+            "answer": "Some health packages include this, especially cardiac packages. You need to check the details of the package to know whether this test is included in the package or not."
+          }
+        ]
+      }
+    ],
+    "sections2": [
+      {
+        "image": "/Diagnostics/2d.webp",
+        "content": "Two-dimensional Echo is a diagnostic tool to capture images of the heart and its related structures.Our echocardiographers, closely work in a team with the treating physicians and analyse the cardiac structure to take up crucial decisions in patient care management.",
+        "faqs": [
+          {
+            "question": "Why do you need 2D echo?",
+            "answer": "Your doctor may need to find the function of the heart, its structures, the movement, ability to pump, blood flow patterns – abnormal forward and backward movement, or any kind of infection   to the valve."
+          },
+          {
+            "question": "Does this test hurts the patient?",
+            "answer": "Absolutely, no. The test is a non-invasive and superficial one done by placing the probe on the chest. It may need some media / gel to reduce loss of signals, otherwise it is a painless procedure."
+          },
+          {
+            "question": "Mechanism of the equipment?",
+            "answer": "The transducer produces shortwave sounds that are passed inside the body by placing  the equipment on the chest. It then captures the reflected sounds and generates a report."
+          }
+        ]
+      }
+    ],
+    "sections3": [
+      {
+        "image": "/Diagnostics/Vascular Doppler.webp",
+        "content": "A very important test amongst diabetics to check for the patency of the blood vessels. With age, and with diabetes, blood vessels may occlude or block due to various reasons. This will cause reduction in blood flow to the extremities and sometime even block 100% causing death of the fingers or toes – Ischemic Gangrene. This test will tell us the percentage of vessel block and thus helps in taking crucial decisions in managing the patients with  diabetes complications.",
+        "faqs": [
+          {
+            "question": "What is the total duration of this study?",
+            "answer": "Ideally, around 40 mins but ranges between 30 – 60 mins. It all depends on the complexity of the condition and the experience of the technician performing the test. At Marigold Hospital Hospitals, on an average 45 mins is the duration of the study."
+          },
+          {
+            "question": "Is this done even for Varicose veins?",
+            "answer": "Yes, this is one of the standard tests done to understand the functions of the peripheral valves and for blood clots if any."
+          },
+          {
+            "question": "How does it work?",
+            "answer": "As the blood flows in the arteries, it generates shorter sound waves that will be captured by the device transducer. Based on this, the reports are generated with the internal algorithm that uses  ECG also."
+          }
+        ]
+      }
+    ],
+    "sections4": [
+      {
+        "image": "/Diagnostics/Ultra sonography.webp",
+        "content": "Most commonly used tool to access and visualise the functions of the internal organs, mainly in the abdomen.  At Marigold Hospital, we have this equipment for routine diagnostic and sometime therapeutic use.",
+        "faqs": [
+          {
+            "question": "Do we adhere to PNDT Act?",
+            "answer": "Yes, as per law we at Marigold Hospital Hospitals, do not reveal the sex of the baby during the scan. We follow standard operating protocols while we wheel the patient for scanning. We adhere to it and do not disclose the sex in any case."
+          },
+          {
+            "question": "Do you do therapeutic ultrasound?",
+            "answer": "Need be yes, with the help of radiologists, we do therapeutic ultrasound if we need to take out fluids or inject some medicines inside the organ. Ideally we do small procedures limited to  diabetic and their complications. If we feel the procedure needs to be done in the higher centre, we will facilitate the process."
+          },
+          {
+            "question": "Do I need to stop taking medicines when scan is planned?",
+            "answer": "No, there is no need to stop the medicines. Sometimes doctors advise you for an empty stomach or to have a full bladder to ease the process or scan for best results. Otherwise, there are not many obligations to do this test."
+          }
+        ]
+      }
+    ],
+    "sections5": [
+      {
+        "image": "/Diagnostics/Bone Mineral Densitometry.webp",
+        "title": "Checking the strength of the bone",
+        "content": "A key tool to check the status of minerals within the bone. Especially for endocrine disorders and for geriatric patients. The major condition affecting ladies and geriatric patients is osteoporosis  and this test is the gold standard to access the extent. Our trained staff conducts this test with ease and forward it to the referring  doctor for interpretation.",
+        "faqs": [
+          {
+            "question": "How long is the procedure?",
+            "answer": "Our staff at Marigold Hospital may not take more than 30 minutes to conduct this test. However, the reporting may take some time as it will be interpreted by the treating physician."
+          },
+          {
+            "question": "Do I need to get this done regularly?",
+            "answer": "Some medicines do wonders and some may not, based on the patient's response to the treatment. After several weeks of treatment, the doctor may need to check the response by redoing this test and comparing it to older report. If there is a significant improvement, he will continue the same medicines, if not he may change the medicines."
+          },
+          {
+            "question": "Are there any risks in this test?",
+            "answer": "It's a zero risk test but may not be good for pregnant women. The test does not cause any side effects."
+          }
+        ]
+      }
+    ],
+    "sections6": [
+      {
+        "image": "/Diagnostics/Xray.4-min.webp",
+        "content": "The most commonly used tool to diagnose many disease conditions for all the specialties. We at Marigold Hospital use the most sophisticated equipment to conduct this diagnostic test.",
+        "faqs": [
+          {
+            "question": "Precautions while undergoing this test?",
+            "answer": "We advise to remove all the ornaments and not to have any metallic things while performing the test."
+          },
+          {
+            "question": "Is the test harmful?",
+            "answer": "Repeated exposure will definitely cause some tissue damage. But the risk of damage due to X-rays are usually very minimal and the advantage or the potential benefits are more compared to  the cell damage. Over a period, the damaged cells will be regenerated and hence no much risk  or side effects."
+          },
+          {
+            "question": "Preparation for this test?",
+            "answer": "We suggest wearing simple clothing that is easier to remove or expose the body parts for scanning. We may even give you a clean gown to perform this test so that it will be easier handle while performing the test."
+          }
+        ]
+      }
+    ],
+
+    "sections7": [
+      {
+        "image": "/Diagnostics/ecgs.webp",
+        "content": "The most commonly used tool to diagnose many disease conditions for all the specialties. We at Marigold Hospital used most sophisticated equipment to conduct this diagnostic test.",
+        "faqs": [
+          {
+            "question": "Precautions while undergoing this tes?",
+            "answer": "We advise to remove all the ornaments and not to have any metallic things while performing the test."
+          },
+          {
+            "question": "Is the test harmful?",
+            "answer": "Repeated exposure will definitely cause some tissue damage. But the risk of damage due to X-rays are usually very minimal and the advantage or the potential benefits are more compared to  the cell damage. Over a period, the damaged cells will be regenerated and hence no much risk  or side effects."
+          },
+          {
+            "question": "Preparation for this test?",
+            "answer": "We suggest wearing simple clothing that is easier to remove or expose the body parts for scanning. We may even give you a clean gown to perform this test so that it will be easier handle while performing the test."
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

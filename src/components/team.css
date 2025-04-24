@@ -1,0 +1,37 @@
+.owl-nav {
+  position: absolute;
+  top: 10%;
+  right: 0%;
+  width: 45%;
+  display: flex;
+  padding: 0 15rem;
+  justify-content: space-between;
+}
+
+.owl-item {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  border-radius: 0px;
+  border: none;
+}
+
+.owl-prev,
+.owl-next {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: var(--clr-one) !important;
+  position: relative;
+}
+.owl-prev span,
+.owl-next span {
+  font-size: 50px;
+  position: absolute;
+  top: 46%;
+  color: var(--clr-two);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=team.css.map */

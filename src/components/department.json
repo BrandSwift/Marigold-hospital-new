@@ -1,0 +1,253 @@
+[
+  {
+    "sections1": [
+      {
+        "image": "/Speciality/Endocrinology.webp",
+        "title": "Internal Medicine",
+        "content": "Marigold Hospital’s department of Internal Medicine acts as the backbone of patient care, with its various specialty centres that integrate the dynamic range of subspecialities of internal medicine. Our Outpatient Department (OPD) treats a large number of patients on a regular basis.",
+        "faqs": [
+          {
+            "question": " What is General Medicine?",
+            "answer": "General medicine is the branch of medicine that focuses on the diagnosis, treatment, and management of a wide range of medical conditions and diseases in adults. It encompasses a broad spectrum of medical knowledge and expertise."
+          },
+          {
+            "question": "What does a General Practitioner (GP) do?",
+            "answer": " A General Practitioner, also known as a family physician or primary care physician, is a medical doctor who provides comprehensive healthcare services, including preventive care, diagnosis, and treatment of common medical conditions."
+          },
+          {
+            "question": "What is the role of an Internist?",
+            "answer": " An internist is a medical doctor who specialises in internal medicine. They focus on the prevention, diagnosis, and treatment of adult diseases. Internists often manage complex medical cases and serve as primary care physicians for adults."
+          },
+          {
+            "question": "When should I see a General Practitioner?",
+            "answer": "You should see a GP for routine check-ups, vaccinations, minor illnesses, injuries, and general health concerns. They can also refer you to specialists when needed. "
+          },
+          {
+            "question": "What are some common conditions treated in General Medicine?",
+            "answer": " General practitioners and internists treat a wide range of conditions, including diabetes, high blood pressure, respiratory infections, arthritis, allergies, and digestive issues, among others."
+          },
+          {
+            "question": " What are the differences between a GP and an Internist?",
+            "answer": " General Practitioners provide primary care for people of all ages, while internists focus exclusively on adults. Internists are often called upon to diagnose and manage complex medical conditions."
+          },
+          {
+            "question": "How do I prepare for a doctor's appointment?",
+            "answer": " To make the most of your doctor's appointment, bring a list of your symptoms, medications, and questions. Be ready to provide a medical history and describe any relevant changes in your health."
+          },
+          {
+            "question": "What is preventive medicine?",
+            "answer": " Preventive medicine is a branch of medicine that focuses on strategies and interventions aimed at preventing disease and promoting overall health. This includes vaccinations, screenings, and lifestyle modifications."
+          }
+        ]
+      }
+    ],
+
+    "sections2": [
+      {
+        "image": "/Speciality/General Surgery.webp",
+        "title": "General Surgery",
+        "content": "General surgery is a surgical specialty that focuses on abdominal contents  including oesophagus, stomach, small bowel, colon, liver, pancreas, gallbladder, appendix and bile ducts, and often the thyroid gland (depending on local referral patterns). They also deal with diseases involving the skin, breast, soft tissue, trauma, peripheral vascular surgery and hernias and perform  endoscopic procedures such as gastroscopy and colonoscopy.",
+        "faqs": [
+          {
+            "question": "What is General Surgery?",
+            "answer": " General surgery is a medical specialty that focuses on the surgical treatment of a wide range of diseases, conditions, and injuries. General surgeons are trained to perform a variety of surgical procedures."
+          },
+          {
+            "question": "What types of surgeries do general surgeons perform?",
+            "answer": "  General surgeons can perform a broad spectrum of surgeries, including procedures related to the abdomen, digestive system, breast, skin, soft tissues, endocrine system, and trauma surgery. They often handle emergency surgeries as well."
+          },
+          {
+            "question": "When should I see a general surgeon?",
+            "answer": " You should consult a general surgeon if you have a condition or injury that requires surgical intervention. This may include issues like appendicitis, hernias, gallbladder problems, colon cancer, and many others."
+          },
+          {
+            "question": "What is the role of a general surgeon in emergency cases?",
+            "answer": " General surgeons play a crucial role in emergency cases, often performing life-saving surgeries for conditions like traumatic injuries, perforated organs, and acute abdominal conditions."
+          }
+        ]
+      }
+    ],
+    "sections3": [
+      {
+        "image": "/Speciality/Gynaecologist.webp",
+        "title": "Obstetrics and Gynaecology",
+        "content": "Compassion, care, and involvement have been the hallmarks of this department.Comprehensive gynaecological services are rendered to address the health care needs of women and the department takes pride in its state-of-the-art labour wards with birthing suites,  and round-the-clock epidural anaesthesia services are available.",
+        "faqs": [
+          {
+            "question": "What is Gynecology?",
+            "answer": " Gynecology is the branch of medicine that focuses on the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. Gynaecologists are specialists who diagnose and treat conditions related to women's reproductive health."
+          },
+          {
+            "question": "What is the difference between Obstetrics and Gynecology?",
+            "answer": " Obstetrics is the branch of medicine that deals with pregnancy, childbirth, and the postpartum period, while gynaecology focuses on the female reproductive system and women's health outside of pregnancy."
+          },
+          {
+            "question": "When should I see a gynaecologist?",
+            "answer": " You should see a gynaecologist for regular check-ups, often starting in your late teens or early twenties. They can address a wide range of issues, including menstrual problems, contraception, sexually transmitted infections (STIs), fertility concerns, and menopause."
+          },
+          {
+            "question": "What happens during a gynaecological exam?",
+            "answer": "A gynaecological exam typically includes a physical examination of the pelvic area, a Pap smear to screen for cervical cancer, and breast examination. Your gynaecologist may also discuss your sexual health and contraceptive options."
+          },
+          {
+            "question": "What are common gynaecological conditions and their symptoms?",
+            "answer": "  Common gynaecological conditions include menstrual disorders, endometriosis, polycystic ovary syndrome (PCOS), uterine fibroids, and vaginal infections. Symptoms may include abnormal bleeding, pelvic pain, changes in menstrual cycles, and discomfort."
+          }
+        ]
+      }
+    ],
+    "sections4": [
+      {
+        "image": "/Speciality/Psychiatrist.webp",
+        "title": "Paediatric And Child Care",
+        "content": "Children are precious there’s no two ways about it. As parents you want the best life for them and do everything in your capacity to ensure this. We follow the same credo at Marigold Hospitals when it comes to children’s health, to provide comprehensive and holistic paediatric healthcare services under one roof in a cheerful and compassionate ambience.",
+        "faqs": [
+          {
+            "question": "What is Paediatrics?",
+            "answer": "  Paediatrics is the branch of medicine that focuses on the health and medical care of infants, children, and adolescents. Paediatricians are trained to address the unique medical and developmental needs of young patients."
+          },
+          {
+            "question": "When should I schedule my child's first paediatrician visit?",
+            "answer": "  It's recommended to schedule the first paediatric visit shortly after birth (within the first week) and then regularly according to your paediatrician's recommendations. This allows for monitoring growth, development, and vaccinations."
+          },
+          {
+            "question": "What vaccines are recommended for children, and why are they important?",
+            "answer": "  Vaccines are crucial to protect children from various infectious diseases like measles, mumps, rubella, polio, and many others. Vaccination schedules are typically recommended by paediatricians and public health authorities."
+          },
+          {
+            "question": "How can I ensure my child's nutrition is adequate?",
+            "answer": "  Proper nutrition is essential for a child's growth and development. Ensure a balanced diet with a variety of foods, including fruits, vegetables, whole grains, lean proteins, and dairy. Consult with a paediatrician for guidance if you have concerns about your child's nutrition."
+          },
+          {
+            "question": "What should I do if my child has a fever?",
+            "answer": "  If your child has a fever, monitor their temperature, provide comfort, and keep them hydrated. Over-the-counter fever-reducing medication like acetaminophen or ibuprofen can be used, but consult with your paediatrician for specific guidance, especially for infants."
+          }
+        ]
+      }
+    ],
+    "sections5": [
+      {
+        "image": "/Speciality/Orthopedics.webp",
+
+        "title": "Orthopedics",
+        "content": "Orthopaedic surgery or orthopaedics, also spelled orthopaedics, is the branch  of surgery concerned with conditions involving the musculoskeletal system. Orthopaedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumours, and congenital disorders.",
+        "faqs": [
+          {
+            "question": "What is Orthopaedics?",
+            "answer": "  Orthopaedics is a medical specialty that focuses on the diagnosis, treatment, and prevention of musculoskeletal disorders. This includes bones, joints, ligaments, tendons, muscles, and other parts of the musculoskeletal system."
+          },
+          {
+            "question": "What conditions do orthopaedic doctors treat?",
+            "answer": "  Orthopaedic doctors treat a wide range of conditions, including fractures, osteoarthritis, rheumatoid arthritis, sports injuries, spine disorders, carpal tunnel syndrome, and more."
+          },
+          {
+            "question": "When should I see an orthopaedic specialist?",
+            "answer": "  You should see an orthopaedic specialist if you experience persistent or severe joint or musculoskeletal pain, have difficulty moving a joint, or if you've had an injury that affects your bones or joints."
+          },
+          {
+            "question": "What is arthroscopy?",
+            "answer": " Arthroscopy is a minimally invasive surgical procedure used to diagnose and treat joint problems. It involves making small incisions and using a tiny camera (arthroscope) to visualise and repair damaged joints."
+          },
+          {
+            "question": "How can I prevent orthopaedic injuries?",
+            "answer": "  To prevent orthopaedic injuries, maintain a healthy lifestyle with regular exercise to strengthen muscles and joints. Use proper techniques when lifting heavy objects, and wear appropriate protective gear during sports or activities."
+          }
+        ]
+      }
+    ],
+    "sections6": [
+      {
+        "image": "/Speciality/nephrologist.webp",
+        "title": "Endocrinology",
+        "content": "The most commonly used tool to diagnose many disease conditions for all the specialties. We at Marigold Hospital used most sophisticated equipment to conduct this diagnostic test.",
+        "faqs": [
+          {
+            "question": "Precautions while undergoing this test?",
+            "answer": "We advise to remove all the ornaments and not to have any metallic things while performing the test."
+          },
+          {
+            "question": "Is the test harmful?",
+            "answer": "Repeated exposure will definitely cause some tissue damage. But the risk of damage due to X-rays are usually very minimal and the advantage or the potential benefits are more compared to  the cell damage. Over a period, the damaged cells will be regenerated and hence no much risk  or side effects."
+          },
+          {
+            "question": "Preparation for this test?",
+            "answer": "We suggest wearing simple clothing that is easier to remove or expose the body parts for scanning. We may even give you a clean gown to perform this test so that it will be easier handle while performing the test."
+          }
+        ]
+      }
+    ],
+    "sections7": [
+      {
+        "image": "/Speciality/nephrologist.webp",
+        "title": "Nephrology",
+        "content": "Nephrology is a specialty of medicine and paediatrics that concerns itself with the kidneys:  the study of normal kidney function and kidney disease, the preservation of kidney health,  and the treatment of kidney disease, from diet and medication to renal replacement therapy (dialysis and kidney transplantation).",
+        "faqs": [
+          {
+            "question": "What is Nephrology?",
+            "answer": "   Nephrology is the medical specialty that focuses on the diagnosis and treatment of kidney-related conditions and disorders. Nephrologists are trained to manage kidney diseases and kidney function."
+          },
+          {
+            "question": "What do the kidneys do?",
+            "answer": "  The kidneys are vital organs responsible for filtering waste and excess fluids from the blood to form urine. They also help regulate blood pressure, electrolyte balance, and the production of red blood cells."
+          },
+          {
+            "question": "When should I see a nephrologist?",
+            "answer": "  You should see a nephrologist if you experience symptoms of kidney problems, such as blood in the urine, changes in urination, persistent high blood pressure, or if you have a family history of kidney disease. Nephrologists also manage chronic kidney disease (CKD) and kidney transplants."
+          },
+          {
+            "question": "What are common kidney diseases and conditions?",
+            "answer": " Common kidney diseases and conditions include chronic kidney disease (CKD), kidney stones, urinary tract infections (UTIs), glomerulonephritis, polycystic kidney disease (PKD), and acute kidney injury (AKI)."
+          }
+        ]
+      }
+    ],
+    "sections8": [
+      {
+        "image": "/Speciality/Opthalmology.webp",
+        "title": "Ophthalmology",
+        "content": "Diabetic retinopathy is the complication of high blood sugar affecting the retina. It damages  the blood vessels of the retina causing damage of the part or whole of the retina over a  period of time. Early cataract and increased fluid pressure within the eyeballs are also the complication of  the uncontrolled blood glucose level. Regular check up and following the advice of the specialist will delay or stop further worsening of the condition.",
+        "faqs": [
+          {
+            "question": "General Ophthalmology",
+            "answer": "As part of preventive care, our ophthalmologist offers regular eye check up."
+          },
+          {
+            "question": "Diabetic Ophthalmology",
+            "answer": "Being a diabetic hospital, we emphasise on the diabetic complication related eye conditions. We look for these complications, its extent of involvement and advise appropriately."
+          },
+          {
+            "question": "Hypertensive Ophthalmology",
+            "answer": "Since Diabetes and high blood pressure, co-exists most cases, we offer comprehensive  preventive and therapeutic eye care services. We partner with higher eye care centres if the patient needs any surgical interventions and for high end procedures."
+          }
+        ]
+      }
+    ],
+    "sections9": [
+      {
+        "image": "/Speciality/Psychiatrist.webp",
+        "title": "psychiatry",
+        "content": "A psychiatrist is a physician who specialises in psychiatry, the branch of medicine devoted to the diagnosis, prevention, study, and treatment of mental disorders. Psychiatrists are medical doctors, unlike psychologists, and must evaluate patients to determine whether  their symptoms are the result of a physical illness, a combination of physical and mental   ailments, or strictly psychiatric. A psychiatrist usually works as the clinical leader of the multidisciplinary team, which may comprise psychologists, social workers, occupational therapists  and nursing staff. Psychiatrists have broad training in a bio-psycho-social approach to assessment and management of mental illness.",
+        "faqs": [
+          {
+            "question": "What is Psychiatry?",
+            "answer": "Psychiatry is a medical specialty that focuses on the diagnosis, treatment, and prevention of mental illnesses and emotional disorders. Psychiatrists are medical doctors who specialise in mental health."
+          },
+          {
+            "question": "What's the difference between a psychiatrist and a psychologist?",
+            "answer": "Psychiatrists are medical doctors who can prescribe medication and provide medical treatment for mental health conditions. Psychologists, on the other hand, are not medical doctors and primarily provide therapy and counselling."
+          },
+          {
+            "question": "When should someone consider seeing a psychiatrist?",
+            "answer": "You should consider seeing a psychiatrist if you're experiencing symptoms of mental health issues, such as depression, anxiety, bipolar disorder, schizophrenia, or any condition affecting your emotional well-being and daily functioning."
+          },
+          {
+            "question": "What types of treatment do psychiatrists provide?",
+            "answer": "Psychiatrists provide a range of treatments, including psychotherapy (talk therapy), medication management, electroconvulsive therapy (ECT), and other therapeutic interventions to address mental health issues.  "
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
