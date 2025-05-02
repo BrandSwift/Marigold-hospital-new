@@ -2,7 +2,7 @@
   {
     "sections1": [
       {
-        "image": "/Speciality/Endocrinology.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Speciality/Endocrinology.webp?updatedAt=1746179032418",
         "title": "Internal Medicine",
         "content": "Marigold Hospital’s department of Internal Medicine acts as the backbone of patient care, with its various specialty centres that integrate the dynamic range of subspecialities of internal medicine. Our Outpatient Department (OPD) treats a large number of patients on a regular basis.",
         "faqs": [
@@ -41,7 +41,6 @@
         ]
       }
     ],
-
     "sections2": [
       {
         "image": "/Speciality/General Surgery.webp",
@@ -69,7 +68,7 @@
     ],
     "sections3": [
       {
-        "image": "/Speciality/Gynaecologist.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Speciality/Gynaecologist.webp?updatedAt=1746179036249",
         "title": "Obstetrics and Gynaecology",
         "content": "Compassion, care, and involvement have been the hallmarks of this department.Comprehensive gynaecological services are rendered to address the health care needs of women and the department takes pride in its state-of-the-art labour wards with birthing suites,  and round-the-clock epidural anaesthesia services are available.",
         "faqs": [
@@ -127,8 +126,7 @@
     ],
     "sections5": [
       {
-        "image": "/Speciality/Orthopedics.webp",
-
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Speciality/Orthopedics.webp?updatedAt=1746179036564",
         "title": "Orthopedics",
         "content": "Orthopaedic surgery or orthopaedics, also spelled orthopaedics, is the branch  of surgery concerned with conditions involving the musculoskeletal system. Orthopaedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumours, and congenital disorders.",
         "faqs": [
@@ -249,5 +247,3 @@
     ]
   }
 ]
-
-

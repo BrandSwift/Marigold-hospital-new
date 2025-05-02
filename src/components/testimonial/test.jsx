@@ -124,20 +124,20 @@ function test() {
             margin={10}
             nav
           >
-           
+
             <div class="item patient">
-            <video src="/videos/two.mp4 " controls> </video>
+              <video src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/videos/two.mp4?updatedAt=1746179041464" controls> </video>
             </div>
             <div class="item patient">
-            <video src="/videos/three.mp4 " controls> </video>
+              <video src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/videos/three.mp4?updatedAt=1746179038013" controls> </video>
             </div>
             <div class="item patient">
-              <video src="/videos/one.mp4 " controls> </video>
+              <video src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/videos/one.mp4?updatedAt=1746179036593" controls> </video>
             </div>
           </OwlCarousel>
         )}
 
-        
+
         {doctor && (
           <OwlCarousel
             {...options}
@@ -174,22 +174,22 @@ function test() {
             nav
           >
             <div class="item patient">
-              <a href="/review/health (1).webp" data-fancybox="gallery">
-                <img src="/review/health (1).webp" alt="marigold-hospital-review-health-1" />
+              <a href="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(1).webp?updatedAt=1746179037162" data-fancybox="gallery">
+                <img src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(1).webp?updatedAt=1746179037162" alt="marigold-hospital-review-health-1" />
               </a>
             </div>
             <div class="item patient">
-              <a href="/review/health (2).webp" data-fancybox="gallery">
-                <img src="/review/health (2).webp" alt="marigold-hospital-review-health-2" />
+              <a href="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(2).webp?updatedAt=1746179040429" data-fancybox="gallery">
+                <img src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(2).webp?updatedAt=1746179040429" alt="marigold-hospital-review-health-2" />
               </a>
             </div>
             <div class="item patient">
-              <a href="/review/health (3).webp" data-fancybox="gallery">
-                <img src="/review/health (3).webp" alt="marigold-hospital-review-health-3" />
+              <a href="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(3).webp?updatedAt=1746179040575" data-fancybox="gallery">
+                <img src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health%20(3).webp?updatedAt=1746179040575" alt="marigold-hospital-review-health-3" />
               </a>
             </div>
             <div class="item patient">
-              <video src="/review/health.mp4" controls></video>
+              <video src="https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/review/health.mp4?updatedAt=1746179053586" controls></video>
             </div>
           </OwlCarousel>
         )}

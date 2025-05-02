@@ -9,7 +9,6 @@ const { title, canonical, link } = Astro.props;
 
 import Header from "../components/header.astro";
 import Footer from "../components/footer.astro";
-import Banner from "../components/banner.astro";
 import Appointment from "../components/appointment.astro";
 import Sendmail from "../components/sendmail.astro";
 ---
@@ -30,20 +29,20 @@ import Sendmail from "../components/sendmail.astro";
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
 <link rel="canonical" href={canonical}>
-    <link
+    <!-- <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
       integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
-    />
-    <link
+    /> -->
+    <!-- <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css"
       integrity="sha512-OTcub78R3msOCtY3Tc6FzeDJ8N9qvQn1Ph49ou13xgA9VsH9+LRxoFU6EqLhW4+PKRfU+/HReXmSZXHEkpYoOA=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
-    />
+    /> -->
 
     <!-- G-fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -300,17 +299,7 @@ import Sendmail from "../components/sendmail.astro";
           }
         });
       });
-
-     
-
-      // plugins: [
-      //   // other plugins,
-      //   new webpack.ProvidePlugin({
-      //     $: "jquery",
-      //     jQuery: "jquery",
-      //     "window.jQuery": "jquery",
-      //   }),
-      // ];
+    
     </script>
   </body>
 </html>

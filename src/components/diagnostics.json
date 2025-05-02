@@ -2,7 +2,7 @@
   {
     "sections1": [
       {
-        "image": "/Diagnostics/TMT.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/TMT.webp?updatedAt=1746179054606",
         "content": "TMT is the most widely used tool to assess the functional capacity of the heart. An uncontrolled diabetes will affect the functions of all the organs, and this tool is part of the management protocols to assess the status of heart function amongst our diabetic patients. Our physician works closely with the technicians to access this function.The findings of this tool will help our doctors to plan the treatment.",
         "faqs": [
           {
@@ -22,7 +22,7 @@
     ],
     "sections2": [
       {
-        "image": "/Diagnostics/2d.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/2d.webp?updatedAt=1746179054162",
         "content": "Two-dimensional Echo is a diagnostic tool to capture images of the heart and its related structures.Our echocardiographers, closely work in a team with the treating physicians and analyse the cardiac structure to take up crucial decisions in patient care management.",
         "faqs": [
           {
@@ -42,7 +42,7 @@
     ],
     "sections3": [
       {
-        "image": "/Diagnostics/Vascular Doppler.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/Vascular%20Doppler.webp?updatedAt=1746179055179",
         "content": "A very important test amongst diabetics to check for the patency of the blood vessels. With age, and with diabetes, blood vessels may occlude or block due to various reasons. This will cause reduction in blood flow to the extremities and sometime even block 100% causing death of the fingers or toes – Ischemic Gangrene. This test will tell us the percentage of vessel block and thus helps in taking crucial decisions in managing the patients with  diabetes complications.",
         "faqs": [
           {
@@ -62,7 +62,7 @@
     ],
     "sections4": [
       {
-        "image": "/Diagnostics/Ultra sonography.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/Ultra%20sonography.webp?updatedAt=1746179055132",
         "content": "Most commonly used tool to access and visualise the functions of the internal organs, mainly in the abdomen.  At Marigold Hospital, we have this equipment for routine diagnostic and sometime therapeutic use.",
         "faqs": [
           {
@@ -82,7 +82,7 @@
     ],
     "sections5": [
       {
-        "image": "/Diagnostics/Bone Mineral Densitometry.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/Bone%20Mineral%20Densitometry.webp?updatedAt=1746179054201",
         "title": "Checking the strength of the bone",
         "content": "A key tool to check the status of minerals within the bone. Especially for endocrine disorders and for geriatric patients. The major condition affecting ladies and geriatric patients is osteoporosis  and this test is the gold standard to access the extent. Our trained staff conducts this test with ease and forward it to the referring  doctor for interpretation.",
         "faqs": [
@@ -121,10 +121,9 @@
         ]
       }
     ],
-
     "sections7": [
       {
-        "image": "/Diagnostics/ecgs.webp",
+        "image": "https://ik.imagekit.io/marigoldhospital/Marigold%20hospital/public/Diagnostics/ecgs.webp?updatedAt=1746179054444",
         "content": "The most commonly used tool to diagnose many disease conditions for all the specialties. We at Marigold Hospital used most sophisticated equipment to conduct this diagnostic test.",
         "faqs": [
           {
@@ -144,5 +143,3 @@
     ]
   }
 ]
-
-
